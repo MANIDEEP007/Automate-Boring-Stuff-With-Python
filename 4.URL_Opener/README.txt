@@ -1,4 +1,4 @@
-List of URL's need to be given in URL's
+List of URL's need to be given in URLs.txt
 Each Line only 1 URL
 Don't change the name of the text file
 Also, make sure text file and Python file resides in the same path
