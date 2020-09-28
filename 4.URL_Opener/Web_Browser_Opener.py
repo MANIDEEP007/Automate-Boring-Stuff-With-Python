@@ -12,7 +12,7 @@ except IOError as exc:
     We can Print the descripion of the error
     '''
     print("Error is",strerror(exc.errno))
-    exit(0)
+    sys.exit(0)
 
 #File Exists - Read the data(URL's)
 urls = file.readlines()
